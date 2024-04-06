@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+H1{
+    text-align: center;
+}
+button,#username,#comment{
+    align-self: center;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 14px;
+    color: blue;
+}
+#username{margin-left: 585px;}
+/* .container{
+    margin-top: 500px;
+} */
